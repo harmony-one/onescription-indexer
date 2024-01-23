@@ -70,7 +70,7 @@ function App() {
 
   return (
     <Container>
-      <h1>Harmony ONE Inscription</h1>
+      <h1>Harmony ONE Inscriptions</h1>
       <StyledTable>
         <thead>
           <tr>
